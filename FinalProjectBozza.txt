@@ -1,0 +1,39 @@
+Final Project Detailed Instructions
+(E' SOLO PER INIZIARE A SCRIVERCI IL CONTENUTO, POI LO FAREMO UGUALE AL DOCUMENTO PROF)
+
+
+1 Introduction 
+
+1.1 Aim of the document
+Lo scopo di questo documento quello di esplicitare i vari passi nella realizzazione del software MangaInk, come progetto per l'esame di Ingegneria del Software. 
+
+1.2 Overview of the defined system
+Il software realizzato si occupa della gestione di un mercato di compravendita di fumetti manga. Inoltre, l'idea è far avere un account all'utente in grado di tener traccia delle sue attività, come vendite effettuate e libri posseduti.
+
+1.3 Hardware and Software requirements
+
+Per lo sviluppo del software ho usato:
+-draw.io per la realizzazione dei diagrammi relativi alla progettazione del sistema
+-Scene Builder per la creazione di file FXML per realizzare l’interfaccia grafica (e 
+quindi le view del MVC)
+-JavaFX per gestire e ampliare i file FXML (controller grafico del MVC)
+-Intellij e in particolare Java come IDE e ambiente di programmazione. Per utilizzare 
+
+1.4 Related systems
+	asdkasd
+
+
+
+2.User Stories
+1)Il sistema deve mostrare una notifica a comparsa all'utente dopo l'acquisto di un manga attraverso la piattaforma.
+2)Il sistema deve aggiornare automaticamente il saldo dell'utente entro 60 secondi dalla vendita di un suo manga tramite la piattaforma.
+3)Il sistema deve includere una barra di ricerca nella homepage per agevolare la ricerca dei manga.
+
+3.Functional requirements
+1)Il sistema deve mostrare una notifica a comparsa all'utente dopo l'acquisto di un manga attraverso la piattaforma.
+2)Il sistema deve aggiornare automaticamente il saldo dell'utente entro 60 secondi dalla vendita di un suo manga tramite la piattaforma.
+3)Il sistema deve includere una barra di ricerca nella homepage per agevolare la ricerca dei manga.
+
+4 Use Cases(LO FACCIAMO ALLA PROSSIMA LEZIONE)
+	4.1 Overview Diagram
+	4.2 Internal Steps
