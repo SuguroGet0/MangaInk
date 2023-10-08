@@ -25,17 +25,21 @@ quindi le view del MVC)
 
 
 2.User Stories
-1)Come utente, voglio poter accedere alla HomePage con un singolo click per semplificare la 
-navigazione.
-2)Come utente registrato, voglio poter consultare una classifica con i manga più popolari, così da 
-avere un feedback aggiuntivo da parte degli altri utenti e scoprire nuovi titoli.
-3)Come utente registrato, voglio una la possibilità di aprire un Ticket per comunicare con un 
-amministratore, in caso riscontrassi dei problemi o avessi domande.
+1)Il sistema deve mostrare una notifica a comparsa all'utente dopo l'acquisto di un manga attraverso la piattaforma.
+2)Il sistema deve aggiornare automaticamente il saldo dell'utente entro 60 secondi dalla vendita di un suo manga tramite la piattaforma.
+3)Il sistema deve includere una barra di ricerca nella homepage per agevolare la ricerca dei manga.
+4)Come utente registrato, voglio una sezione apposita per recensire i manga dove ogni utente può lasciare una recensione, così da poter valutare la qualità dei fumetti e se possono essere di mio interesse.
+5)Come utente amministratore, voglio poter eliminare tutte le recensioni offensive segnalate dagli utenti, per rendere più efficace e veritiera la sezione delle recensioni.
+6)Come utente amministratore, voglio poter bannare gli utenti che non rispettano le regole, per mantenere un ambiente sicuro:
 
 3.Functional requirements
 1)Il sistema deve mostrare una notifica a comparsa all'utente dopo l'acquisto di un manga attraverso la piattaforma.
 2)Il sistema deve aggiornare automaticamente il saldo dell'utente entro 60 secondi dalla vendita di un suo manga tramite la piattaforma.
 3)Il sistema deve includere una barra di ricerca nella homepage per agevolare la ricerca dei manga.
+4)Il sistema deve fornire all’utente registrato una sezione di recensioni sotto ogni fumetto di massimo 350 caratteri.
+5)Il sistema deve fornire all’utente la possibilità di registrarsi inserendo email, nome utente e password ed effettuare il login utilizzando nome utente e password.
+6)Il sistema deve mostrare a schermo l’immagine delle copertine dei manga affinché gli utenti possano selezionarli e aggiungerli al carrello.
+
 
 4 Use Cases(LO FACCIAMO ALLA PROSSIMA LEZIONE)
 	4.1 Overview Diagram
