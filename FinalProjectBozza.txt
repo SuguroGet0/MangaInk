@@ -25,9 +25,12 @@ quindi le view del MVC)
 
 
 2.User Stories
-1)Il sistema deve mostrare una notifica a comparsa all'utente dopo l'acquisto di un manga attraverso la piattaforma.
-2)Il sistema deve aggiornare automaticamente il saldo dell'utente entro 60 secondi dalla vendita di un suo manga tramite la piattaforma.
-3)Il sistema deve includere una barra di ricerca nella homepage per agevolare la ricerca dei manga.
+1)Come utente, voglio poter accedere alla HomePage con un singolo click per semplificare la 
+navigazione.
+2)Come utente registrato, voglio poter consultare una classifica con i manga più popolari, così da 
+avere un feedback aggiuntivo da parte degli altri utenti e scoprire nuovi titoli.
+3)Come utente registrato, voglio una la possibilità di aprire un Ticket per comunicare con un 
+amministratore, in caso riscontrassi dei problemi o avessi domande.
 
 3.Functional requirements
 1)Il sistema deve mostrare una notifica a comparsa all'utente dopo l'acquisto di un manga attraverso la piattaforma.
